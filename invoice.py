@@ -1,3 +1,4 @@
+#I will start by declaring six variables as the name of three products and their price, you can add more products to your list:
 # create a product and price for three items
 product1_name, product1_price = 'Books', 50.95
 product2_name, product2_price = 'Computer', 598.99
@@ -48,3 +49,24 @@ print('\n\t{}\n'.format(message))
 
 # create a bottom border
 print('*' * 50)
+
+'''
+Output-
+**************************************************
+                Techsourav Private Ltd
+                Bankura, West Bengal, 722139      
+                Bankura
+==================================================
+        Product Name    Product Price
+        Books           $50.95
+        Computer        $598.99
+        Monitor         $156.89
+==================================================
+                        Total
+                        $806.83
+==================================================
+
+        Thanks for shopping with us today!
+
+**************************************************
+'''

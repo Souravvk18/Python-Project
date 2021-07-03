@@ -1,0 +1,1 @@
++ ', went to the ' + random.choice(went) + ' and ' + random.choice(happened))

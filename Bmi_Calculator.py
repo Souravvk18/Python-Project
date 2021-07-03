@@ -19,6 +19,7 @@ if(BMI>0):
 else:("enter valid details")
 
 '''
+output-
 Enter your height in centimeters: 175
 Enter your Weight in Kg: 56
 your Body Mass Index is:  18.285714285714285
