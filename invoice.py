@@ -10,7 +10,7 @@ company_address = 'Bankura, West Bengal, 722139'
 company_city = 'Bankura'
 
 # declare ending message
-message = 'Thanks for shopping with us today!'
+message = 'Thanks for shopping with us!'
 
 # create a top border
 print('*' * 50)
